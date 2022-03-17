@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on opensource and github
 - 🤔 I’m looking for help with data structures and algorithms
 - 💬 Ask me about Web development
-- ⚡ Fun fact: Apart from programming I am fitness geek.
+- ⚡ Fun fact: Apart from programming I am music lover.
 
 
 #### Languages
