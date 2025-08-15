@@ -34,14 +34,9 @@
 
 <hr/>
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/salman-zia/salman-zia">
-  <img align="center"
-src="https://github-readme-stats.vercel.app/api?username=salman-zia&show_icons=true&line_height=27&count_private=true&title_color=3485ef&text_color=343434&icon_color=3964ef&bg_color=fffefe"
-alt="Salman's GitHub Stats" />
-</a>
+
 <h5>Company Account (public contributions only,
-https://github.com/MTBC-GO-SZ42)</h5>
+[https://gitlab.com/salmanzia]</h5>
 <a href="https://github.com/salman-zia/salman-zia">
   <img align="center"
 src="https://github-readme-stats.vercel.app/api?username=MTBC-GO-SZ42&show_icons=true&line_height=27&count_private=true&title_color=3485ef&text_color=343434&icon_color=3964ef&bg_color=fffefe"
